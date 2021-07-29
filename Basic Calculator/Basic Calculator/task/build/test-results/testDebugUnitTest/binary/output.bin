@@ -1,0 +1,7 @@
+s[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=29; resources=BINARY
+SCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+yCleaner.create(android.view.ThreadedRenderer@5d8b94a8,android.graphics.HardwareRenderer$DestroyContextRunnable@2855c1f6)
+~[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=29; resources=BINARY
+yCleaner.create(android.view.ThreadedRenderer@3ac59e4d,android.graphics.HardwareRenderer$DestroyContextRunnable@6e04aab2)
+Å[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=29; resources=BINARY
+yCleaner.create(android.view.ThreadedRenderer@1c542100,android.graphics.HardwareRenderer$DestroyContextRunnable@2f938673)

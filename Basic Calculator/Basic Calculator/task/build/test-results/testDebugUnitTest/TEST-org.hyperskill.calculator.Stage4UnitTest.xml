@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-29T06:03:10" hostname="Recursion" time="14.287">
+  <properties/>
+  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="13.102"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheIntAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.646"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.539"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=29; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+Cleaner.create(android.view.ThreadedRenderer@5d8b94a8,android.graphics.HardwareRenderer$DestroyContextRunnable@2855c1f6)
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@3ac59e4d,android.graphics.HardwareRenderer$DestroyContextRunnable@6e04aab2)
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@1c542100,android.graphics.HardwareRenderer$DestroyContextRunnable@2f938673)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

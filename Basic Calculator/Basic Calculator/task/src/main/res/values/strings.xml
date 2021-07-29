@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="clear">CLEAR</string>
+    <string name="divide_symbol">/</string>
+    <string name="equal_symbol">=</string>
+    <string name="dot_symbol">.</string>
+    <string name="nZero">0</string>
+    <string name="plus_symbol">+</string>
+    <string name="nThree">3</string>
+    <string name="nTwo">2</string>
+    <string name="nOne">1</string>
+    <string name="nSix">6</string>
+    <string name="nFive">5</string>
+    <string name="nFour">4</string>
+    <string name="esterisk_symbol">*</string>
+    <string name="nNine">9</string>
+    <string name="nEight">8</string>
+    <string name="nSeven">7</string>
+</resources>
